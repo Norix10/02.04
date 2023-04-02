@@ -1360,3 +1360,229 @@ footer{
 
     color: #9F9F9F;
 }
+
+.box-3{
+    position: absolute;
+    width: 1197px;
+    height: 47px;
+    left: 360px;
+    top: 1216px;
+
+    background: #000000;
+}
+
+.colection-text-name{
+    position: absolute;
+    width: 83px;
+    height: 16px;
+    left: 917px;
+    top: 1220px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #FFFFFF;
+}
+
+.colection-clock-img-1{
+    position: absolute;
+    width: 160px;
+    height: 250px;
+    left: 360px;
+    top: 1412px;
+}
+
+.colection-clock-img-2{
+    position: absolute;
+    width: 156px;
+    height: 250px;
+    left: 708px;
+    top: 1412px;
+}
+
+.colection-clock-img-3{
+    position: absolute;
+    width: 177px;
+    height: 250px;
+    left: 1053px;
+    top: 1412px;
+}
+
+.colection-clock-img-4{
+    position: absolute;
+    width: 138px;
+    height: 250px;
+    left: 1419px;
+    top: 1412px;
+}
+
+.colection-clock-prise-1{
+    position: absolute;
+    width: 67px;
+    height: 17px;
+    left: 404px;
+    top: 1702px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+
+.colection-clock-prise-2{
+    position: absolute;
+    width: 67px;
+    height: 17px;
+    left: 761px;
+    top: 1700px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+
+.colection-clock-prise-3{
+    position: absolute;
+    width: 71px;
+    height: 17px;
+    left: 1122px;
+    top: 1697px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+
+.colection-clock-prise-4{
+    position: absolute;
+    width: 71px;
+    height: 17px;
+    left: 1470px;
+    top: 1697px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.colection-clock-text-1{
+    position: absolute;
+    width: 294px;
+    height: 51px;
+    left: 290px;
+    top: 1725px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #000000;
+}
+
+.colection-clock-text-2{
+    position: absolute;
+    width: 259px;
+    height: 16px;
+    left: 665px;
+    top: 1725px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #000000;
+    
+}
+
+.colection-clock-text-3{
+    position: absolute;
+    width: 249px;
+    height: 51px;
+    left: 1033px;
+    top: 1725px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #000000;
+    
+}
+
+.colection-clock-text-4{
+    position: absolute;
+    width: 258px;
+    height: 51px;
+    left: 1373px;
+    top: 1725px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #000000;
+}
+
+.box-4{
+    position: absolute;
+    width: 250px;
+    height: 61px;
+    left: 835px;
+    top: 1853px;
+    
+    background: #F54044;
+}
+
+.last-word{
+    position: absolute;
+    width: 174px;
+    height: 17px;
+    left: 873px;
+    top: 1862px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
